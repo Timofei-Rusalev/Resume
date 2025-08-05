@@ -1,6 +1,6 @@
-# Rusalev CV
+# CV Repository
 
-This repository contains my CV in PDF format. I am a theoretical physicist transitioning into Machine Learning Research, and I am currently seeking internship or junior-level positions with a focus on Large Language Model.
+This repository contains my CV in PDF format. My name is Timofei Rusalev, I am a theoretical physicist transitioning into Machine Learning Research, and I am currently seeking internship or junior-level positions with a focus on Large Language Model.
 
 ## Files
 
